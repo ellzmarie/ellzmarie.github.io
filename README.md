@@ -1,5 +1,7 @@
 # Ella's Portfolio 
 
+Here's a link to my live portfolio: https://ellzmarie.github.io/
+
 ## Project Schedule 
 
 | Day | Deliverable    | Status |
